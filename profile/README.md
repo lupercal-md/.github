@@ -10,8 +10,16 @@ Built with a microservices-oriented architecture, Lupercal focuses on scalabilit
 
 <div>
   <p>
+    <strong>Fullstack</strong></br>
     <a href="https://github.com/lupercal-md">
-      <img src="https://skills.syvixor.com/api/icons?perline=15&i=golang,grpc,postgresql,redis,kafka,vuejs,docker,kubernetes,grafana" alt="Tech stack" />
+      <img src="https://skills.syvixor.com/api/icons?perline=15&i=golang,grpc,postgresql,redis,kafka,vuejs,vitest,betterauth,websocket" alt="Tech stack" />
+    </a>
+  </p>
+
+  <p>
+    <strong>Infra</strong></br>
+    <a href="https://github.com/lupercal-md">
+      <img src="https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,amazons3,docker,kubernetes,terraform,grafana,loki,prometheus,vault,githubactions,argocd" alt="Tech stack" />
     </a>
   </p>
 
